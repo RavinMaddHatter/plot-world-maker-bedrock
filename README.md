@@ -20,7 +20,10 @@ In my opinion Moderators should have creative privlages i this world globably. T
 
 ## Killing entities
 When killing enties, don't run /kill @e, instead run.
+
 ```/kill @e[name=!vender] ```
+
+
 Or set name and or type.
 
 
