@@ -18,6 +18,12 @@ Install the pack like a normal addon for the world. Create a flat world with che
 In my opinion Moderators should have creative privlages i this world globably. To do this have them select a plot like a normal player and then execute the following command (replace the [player name] with the actuall players name.
 ```/event entity [player name] plotz.removeAll```
 
+## Killing entities
+When killing enties, don't run /kill @e, instead run.
+```/kill @e[name=!vender] ```
+Or set name and or type.
+
+
 ## removing plots from a player
 Plots can be removed from a player by doing the following, you have to replace all thigns in the bracket with the correct values:
 ```
